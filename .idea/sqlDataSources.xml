@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="255c0f11-3248-4ba2-af3b-13cd3ae27ae2" name="valorantav3@localhost Mapping">
+      <data-sources db="73db90cd-d9ec-400f-b05d-def1db291550" ddl="a18ead9f-36c7-4c90-9ae2-d80bd390b872" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="a18ead9f-36c7-4c90-9ae2-d80bd390b872" />
+          <option name="name" value="valorantav3@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
